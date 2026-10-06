@@ -1,4 +1,4 @@
-# crdt-sync-engine
+# CRDT Sync Engine
 
 > Real-time concurrent document collaboration backed by FastAPI WebSockets and Redis Pub/Sub.
 
